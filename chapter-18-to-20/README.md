@@ -1,6 +1,6 @@
 # Chapter 18-20: JavaScript Assignments
 
-This directory contains JavaScript assignments from the Saylani Mass IT Training program. Each assignment focuses on different JavaScript concepts and programming exercises.
+This directory contains JavaScript assignments from the Saylani Mass IT Training program, specifically for Techno Kids Batch 7. This is part of Assignment 4 covering chapters 18-20 of the curriculum.
 
 ## Contents
 
@@ -41,3 +41,18 @@ By completing these assignments, students will gain proficiency in:
 - Basic algorithms (finding min/max, sorting, prime checking)
 - User input handling
 - Pattern printing
+
+## Project Context
+
+This assignment is part of the broader JavaScript Assignment 4 Solutions repository for the Saylani Mass IT Training program. It represents work completed as part of the Techno Kids Batch 7 training program to demonstrate understanding of JavaScript fundamentals covered in chapters 18-20 of the curriculum.
+
+## Usage
+
+Each question directory contains an index.html file and a script.js file. To run any specific question:
+1. Navigate to the question's directory (e.g., question-01/)
+2. Open the index.html file in your web browser
+3. The JavaScript code will execute as specified in the assignment requirements
+
+## Notes
+
+This code represents learning journey and understanding of JavaScript fundamentals. It is intended for educational purposes as part of the Techno Kids Batch 7 training program.
